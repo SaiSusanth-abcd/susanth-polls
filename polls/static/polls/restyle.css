@@ -1,0 +1,19 @@
+li a{
+color: white;
+font-family: Verdana, sans-serif;
+}
+body {
+text-align: center;
+color: white;
+font-family: Verdana, sans-serif;
+background-color: black;
+}
+
+#b1 {
+  transition-duration: 0.4s;
+}
+
+#b1:hover {
+  background-color: #555555; /* Green */
+  color: white;
+}
